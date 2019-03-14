@@ -22,7 +22,6 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [SimilarWeb](https://www.similarweb.com) - Reveal online strategy of any given url.
 
 ### Content Creation Tools
-- [Copywritely] (https://copywritely.com/) - Check and correct your content ( docs/text before publishing/landing pages)
 - [Play.ht](https://play.ht/) - Convert your articles to audio
 - [unDraw](https://undraw.co/illustrations) - Browse images that fit your needs and download
 - [Carbon](https://carbon.now.sh/) - Create and share images of your source code
